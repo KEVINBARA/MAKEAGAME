@@ -1,8 +1,8 @@
 ﻿<Properties StartupItem="Assembly-UnityScript.unityproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Ballcontrol.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CameraControl.js">
     <Files>
-      <File FileName="Assets\Ballcontrol.js" Line="26" Column="19" />
+      <File FileName="Assets\CameraControl.js" Line="11" Column="31" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
