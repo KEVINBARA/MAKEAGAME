@@ -45,6 +45,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\BallHealth.js" />
      <Compile Include="Assets\Script\Ballcontrol.js" />
      <Compile Include="Assets\Script\CameraControl.js" />
  <Reference Include="UnityEngine.UI">
