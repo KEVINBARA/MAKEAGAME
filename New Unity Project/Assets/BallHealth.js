@@ -1,4 +1,7 @@
-﻿#pragma strict
+﻿
+import UnityEngine.SceneManagement;
+#pragma strict
+
 
 var maxFallDistance = -10;
 
@@ -6,7 +9,7 @@ function Update () {
 
 if(transform.position.y <= maxFallDistance){
 
-Application.LoadLevel("save01");
+SceneManager.LoadScene("save01");
 }
 
 }
