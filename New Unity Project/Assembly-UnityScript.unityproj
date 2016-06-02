@@ -45,8 +45,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Ballcontrol.js" />
-     <Compile Include="Assets\CameraControl.js" />
+     <Compile Include="Assets\Script\Ballcontrol.js" />
+     <Compile Include="Assets\Script\CameraControl.js" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
